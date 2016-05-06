@@ -19,6 +19,9 @@ Segue abaixo uma lista de comando úteis ao git
 
 	#Transforma seu repositório em um servidor git
     git config --global alias.serve "\!git daemon --reuseaddr --verbose  --base-path=. --export-all ./.git"
+    
+    #Realiza o commit
+    git config --global alias.com "commit -m"
 ```
 
 Essa lista foi baseado no site [1][Atalhos para o git - Loop Infinito]
