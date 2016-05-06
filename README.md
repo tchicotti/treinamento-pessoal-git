@@ -24,7 +24,8 @@ Segue abaixo uma lista de comando úteis ao git
     git config --global alias.com "commit -m"
 ```
 
-Essa lista foi baseado no site [1][Atalhos para o git - Loop Infinito]
+Essa lista foi baseado no site [Atalhos para o git - Loop Infinito][1]
 
-[1][http://loopinfinito.com.br/2012/12/13/atalhos-do-git/]
+[1]: http://loopinfinito.com.br/2012/12/13/atalhos-do-git/
+
 
